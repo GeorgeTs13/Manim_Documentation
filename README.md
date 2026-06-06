@@ -15,7 +15,7 @@ This repository is made to help people that need help or some piece of documenta
 * 03-Troubleshooting
 * assets
 
-## Prerequisites
+## Dependencies
 
 * Python
 * Manim
