@@ -26,3 +26,6 @@ This repository is made to help people that need help or some piece of documenta
 2. Basics
 3. Intermediate
 4. Troubleshooting
+
+
+YOU CAN FIND MY MANIM PROJECTS ON SOME OF MY GITHUB REPOS
