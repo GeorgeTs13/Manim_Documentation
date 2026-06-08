@@ -9,7 +9,7 @@
 
 On Linux and Mac Python is already installed, On windows use the microsoft store to search python 3.13 and install, i recommend the store because you are likely to face less issues
 
-Now you will need to open your terminal and run "pip install manim", if pip is not available you will be prompted to install it, if not search your os with how to install pip and procceed with "pip install manim"
+Now you will need to open your terminal and run "pip install manim", if pip is not available you will be prompted to install it, if not search your os with how to install pip and procceed with "pip install manim" then add it to your PATH
 
 That`s it manim installation is complete but you still have to install a code editor like VScode
 
